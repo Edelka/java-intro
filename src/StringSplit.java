@@ -10,7 +10,7 @@ public class StringSplit {
             System.out.println(value);
         }
 
-
+        //case2
         String str2 = "Life is wonderful!";
 
         System.out.println("The new string is  - " );
@@ -18,7 +18,7 @@ public class StringSplit {
             System.out.println(value2);
         }
 
-
+        //case3
         String data = "004-034556-1212-232-232";
         int cnt = 1;
         for (String item : data.split("-")) {
