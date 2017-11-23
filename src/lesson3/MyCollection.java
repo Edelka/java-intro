@@ -30,7 +30,7 @@ public class MyCollection {
 
 
         //Removing of the element and the following check
-        moto.remove("3");
+        moto.remove(3);
 
         System.out.println("Is KTM in the list? - " + moto.contains("KTM"));
         System.out.println();
