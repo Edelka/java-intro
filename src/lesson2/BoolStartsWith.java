@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package lesson2;
 
 public class BoolStartsWith {
     public static void main(String args[]) {
